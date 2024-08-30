@@ -31,7 +31,7 @@ const movies = async () => {
   return (
     <div className='flex flex-col justify-center items-center'>
       <span className='font-semibold'>Movies</span>
-      <Link href={"/movies/asdsas"} className='p-2 rounded-md bg-blue-600'>Go to</Link>
+      <Link href={"/movies/asdsas"} className='p-2 rounded-md bg-blue-600'>Go to asdsas</Link>
 
     </div>
   )
