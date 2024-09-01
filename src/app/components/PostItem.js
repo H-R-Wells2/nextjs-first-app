@@ -1,6 +1,6 @@
 import React from 'react'
 import { UserPlus } from 'lucide-react';
-import { BsHeart, BsHeartFill} from "react-icons/bs";
+import { BsHeart, BsHeartFill } from "react-icons/bs";
 import { FaRegCommentDots } from "react-icons/fa";
 import { IoSend } from "react-icons/io5";
 import { FaRegBookmark } from "react-icons/fa";

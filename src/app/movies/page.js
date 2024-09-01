@@ -5,7 +5,7 @@ import { resolve } from 'styled-jsx/css'
 
 const movies = async () => {
 
-  await new Promise(resolve => setTimeout(resolve,3000));
+  await new Promise(resolve => setTimeout(resolve, 3000));
 
 
 
